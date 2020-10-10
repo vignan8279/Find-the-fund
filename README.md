@@ -1,2 +1,2 @@
 # Find-the-fund
-Predicting whether a company should be funded or not.
+Predicting whether a company should be funded or not with machine learning.
